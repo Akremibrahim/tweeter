@@ -6,9 +6,9 @@
   max-width: 400px;
   align-items: center;
   background-image: rgb(4, 229, 250);
-  background-color: #ffffff;
+  background-color: #d18b00;
   flex-direction: column;
-  background-image: url('../images/45-degree-fabric-light.png');
+  background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
 }
 
 @media only screen and (max-width: 900px) {
