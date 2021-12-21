@@ -16,3 +16,6 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+## Screenshots
+!["Screenshot of the Home Page"](https://github.com/Akremibrahim/tweeter/commit/efc5d542f63939b749e208d17a33007a60b0d615)
+!["Screenshot of Composing a Tweet and decrease of Character Count"](https://github.com/Akremibrahim/tweeter/commit/efc5d542f63939b749e208d17a33007a60b0d615)

@@ -75,12 +75,12 @@
 }
 
 .icons .fas {
-  color: rgb(44, 44, 116);
+  color: rgb(21, 73, 194);
   font-size: 0.6em;
   letter-spacing: 0.4em;
 }
 .icons .fas:hover {
-  color: goldenrod;
+  color: rgb(226, 29, 23);
 }
 
 .tweet-data footer {
